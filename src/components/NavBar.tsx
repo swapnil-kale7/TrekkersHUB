@@ -9,7 +9,8 @@ export function NavBar(){
         
         <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
             <Container style={{marginLeft: "50px", marginRight: "50px" }}>
-            <h2>TrekkersHUB</h2>
+                    <Nav
+                        style={{ fontSize:"40px"}}><Nav.Link to="/" as={NavLink}>TrekkersHUB</Nav.Link></Nav>
             <Nav >
                 <Nav.Link to="/" as={NavLink}>Home</Nav.Link>
                 <Nav.Link to="/Store" as={NavLink}>Store</Nav.Link>
