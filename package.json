@@ -1,7 +1,7 @@
 {
   "homepage": "https://swapnil-kale7.github.io/TrekkersHUB",
   "name": "shopping-cart",
-  "private": false,
+  "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
