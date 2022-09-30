@@ -1,5 +1,4 @@
 import { Badge, Toast } from "react-bootstrap";
-import Homeslide from "../components/homeslide";
 import Homeslide2 from "../components/Homeslide2";
 
 
