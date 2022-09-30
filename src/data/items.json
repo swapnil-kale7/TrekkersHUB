@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"coleman tent",
+        "price":9500,
+        "image":"/images/71Nlslc02aL._AC_UL320_.jpg"
+    },
+    {
+        "id": 2,
+        "name": "QUECHUA Camping family tent 4 Person",
+        "price": 7500,
+        "image": "/images/tent2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "CAMPING TENT 3 PERSON - GREEN",
+        "price": 2500,
+        "image": "/images/3persontent.jpg"
+    },
+    {
+        "id": 4,
+        "name": "FORCLAZ Anti-Shock Mountain Hiking Pole 500 Grey",
+        "price": 9500,
+        "image": "/images/pole.jpg"
+    }
+]
